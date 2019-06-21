@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# poem
+**Gather you rosebud while you may**
+**time is still a-flying**
+_the flowers you smile tody_
+__tomorrow will be dying__
+end of poem:sparkles:
