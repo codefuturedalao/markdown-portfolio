@@ -1,1 +1,1 @@
-![it is a temp photo in my computer] (localhost:\\C:\Program Files (x86)\temp.png)
+![it is a temp files](localhost:/)
